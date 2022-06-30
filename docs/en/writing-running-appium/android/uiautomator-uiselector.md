@@ -5,7 +5,7 @@ Appium enables searching using [UiSelectors](http://developer.android.com/refere
 is also supported.
 
 Note that the index selector is unreliable so prefer instance instead. The
-following examples are written against the api demos apk using Ruby.
+following examples are written against the api demos apk using Ruby
 
 
 Find the first textview.
